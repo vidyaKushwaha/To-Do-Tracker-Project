@@ -1,2 +1,2 @@
 # To-Do-Tracker-Project
-I developed this To-Do-Tracker Project using Java and Angular Framework.
+To-Do-Tracker Application using Java and Angular Framework.
